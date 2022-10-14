@@ -1,0 +1,6 @@
+stress command--> stress  --cpu 40 --timeout 1000
+Stress package-->sudo amazon-linux-extras install epel -y
+stress stop command --> ctrl+Z
+
+Database Command-->mysql -h  database-1.c7tv41mm2ar1.ap-south-1.rds.amazonaws.com -u admin -p12345678
+
