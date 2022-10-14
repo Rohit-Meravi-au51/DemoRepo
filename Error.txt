@@ -1,0 +1,6 @@
+<html>
+	<body  bgcolor=aqua>
+ 	<h1>  This is my error page on Cloud </h1> 
+	</body>
+	</h1>
+	</html>
