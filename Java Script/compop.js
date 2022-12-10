@@ -1,0 +1,15 @@
+let a=9
+let b=3
+console.log(a==5)
+console.log(a!=5)
+console.log(a>=5)
+console.log(a<=5)
+console.log(a==5)
+console.log(a=="9")
+console.log(a+b+"5")
+console.log(a===9)
+console.log(typeof(a-"5"))
+console.log(a*"5")
+console.log(a%"5")
+console.log(a/"5")
+console.log(a**"3")
